@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "aoc2020"
+version = "0.1.0"
+description = "Advent of Code 2020 in Python"
+authors = ["Jb DOYON <jb@jiby.tech>"]
+license = "GPL-v3-or-later"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.1.2"
+black = "^20.8b1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
