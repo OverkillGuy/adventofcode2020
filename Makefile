@@ -17,3 +17,4 @@ run:
 	cd src/aoc2020; poetry run python 2.py
 	cd src/aoc2020; poetry run python 3.py
 	cd src/aoc2020; poetry run python 4.py
+	cd src/aoc2020; poetry run python 5.py
